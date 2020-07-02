@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/quid-pro-quo-web/static/js/main.59b6d9a4.chunk.js",
+    "main.js.map": "/quid-pro-quo-web/static/js/main.59b6d9a4.chunk.js.map",
+    "runtime-main.js": "/quid-pro-quo-web/static/js/runtime-main.55562629.js",
+    "runtime-main.js.map": "/quid-pro-quo-web/static/js/runtime-main.55562629.js.map",
+    "static/js/2.3ffee270.chunk.js": "/quid-pro-quo-web/static/js/2.3ffee270.chunk.js",
+    "static/js/2.3ffee270.chunk.js.map": "/quid-pro-quo-web/static/js/2.3ffee270.chunk.js.map",
+    "index.html": "/quid-pro-quo-web/index.html",
+    "precache-manifest.4dce9b22599ff3d361ee2aec22d3bbc5.js": "/quid-pro-quo-web/precache-manifest.4dce9b22599ff3d361ee2aec22d3bbc5.js",
+    "service-worker.js": "/quid-pro-quo-web/service-worker.js",
+    "static/js/2.3ffee270.chunk.js.LICENSE.txt": "/quid-pro-quo-web/static/js/2.3ffee270.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55562629.js",
+    "static/js/2.3ffee270.chunk.js",
+    "static/js/main.59b6d9a4.chunk.js"
+  ]
+}
