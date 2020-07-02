@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quid-pro-quo-web/precache-manifest.4dce9b22599ff3d361ee2aec22d3bbc5.js"
+  "/quid-pro-quo-web/precache-manifest.9c17abd88ae88b83d2a67e90f8b3761a.js"
 );
 
 self.addEventListener('message', (event) => {
